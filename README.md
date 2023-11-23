@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> It is a simple GUI Text Editor which is user-friendly and  designed for uncomplicated text editing. 
+<p align="center"> A simple tool that creates and accesses shortened versions of long URLs 
     <br> 
 </p>
 
@@ -53,7 +53,10 @@ Download and Install JDK based on your system
 [https://www.oracle.com/java/technologies/downloads/
 ](url)
 
-## 🚀 Deployment <a name = "deployment"></a>
+Install Apache Maven
+
+
+
 
 How to use
 To use this URL shortener, you need to clone the repository from GitHub and run the application on your local machine. You will need to have Java and Maven installed on your system. You can follow these steps:
