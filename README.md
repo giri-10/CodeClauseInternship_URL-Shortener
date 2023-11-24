@@ -25,10 +25,10 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Installing](#installing)
-- [Deployment](#deployment)
-- [Reference Images](#reference_images)
+- [Prerequisites](#prerequisites)
+- [Local Setup](#local_setup)
+- [How it works](#how_it_works)
+- [API Endpoints](#api_endpoints)
 - [Built Using](#built_using)
 
 ## 🧐 About <a name = "about"></a>
