@@ -1,4 +1,4 @@
-# CodeClauseInternship_URL-Shortener
+# URL-Shortener
 
 
 <p align="center">
