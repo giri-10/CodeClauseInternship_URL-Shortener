@@ -33,7 +33,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Your URL Shortener project, built with Java Spring Boot, is a powerful and efficient solution for simplifying and managing long URLs. The primary objective of the project is to provide users with a streamlined way to create concise, shareable links that redirect to the original, longer URLs. Leveraging the capabilities of Java Spring Boot, the application ensures robust performance, scalability, and security in URL shortening and redirection processes.
+Built with Java Spring Boot, this is a powerful and efficient solution for simplifying and managing long URLs. The primary objective of the project is to provide users with a streamlined way to create concise, shareable links that redirect to the original, longer URLs. Leveraging the capabilities of Java Spring Boot, the application ensures robust performance, scalability, and security in URL shortening and redirection processes.
 
 
 ## 🌱 Prerequisites <a name = "prerequisites"></a>
