@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="" rel="noopener">
-<!--  <img width=100px height=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GNOME_Text_Editor_Icon.svg/1200px-GNOME_Text_Editor_Icon.svg.png" alt="Project logo"></a> -->
+ <img width=100px height=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GNOME_Text_Editor_Icon.svg/1200px-GNOME_Text_Editor_Icon.svg.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">URL-Shortener</h3>
 
-<div align="center">
+<!--<div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-</div>
+</div> -->
 
 ---
 
