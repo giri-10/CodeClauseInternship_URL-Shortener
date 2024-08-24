@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=100px height=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GNOME_Text_Editor_Icon.svg/1200px-GNOME_Text_Editor_Icon.svg.png" alt="Project logo"></a>
+<!--  <img width=100px height=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GNOME_Text_Editor_Icon.svg/1200px-GNOME_Text_Editor_Icon.svg.png" alt="Project logo"></a> -->
 </p>
 
 <h3 align="center">URL-Shortener</h3>
